@@ -1,4 +1,4 @@
-repositoryID: The ID of the Artifact Hub repository where the packages will be published to (optional, but it enables verified publisher)
+repositoryID: 66c8e8e9-b7ea-46a4-9921-f32e9fe3c5e5
 owners: # (optional, used to claim repository ownership)
   - name: user1
     email: user1@email.com
